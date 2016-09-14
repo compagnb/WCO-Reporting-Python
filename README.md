@@ -11,15 +11,15 @@
     • Status of reservation (reservations never picked up)
     • Late return (by hour amount)
     • Frequent students (by hour amount)
-    
-### How To Use: 
+
+### How To Use:
     • In Web Check Out:
         • Select Usage Report from under the Reports tab in WCO
-        ![Selecting Usage Report from pull-down menu](/images/report.png)
+        [Selecting Usage Report from pull-down menu](/images/report.png)
         • Choose your Check-out Center
-        ![Check-out Center](/images/ckoutcenter.png)
+        [Check-out Center](/images/ckoutcenter.png)
         • Select all states applicable (Checkout, completed.... etc)
-        ![States](/images/state.png)
+        [States](/images/state.png)
         • Select start date and time
         • select end date and time
         • ensure the following result collumns are included in your output:
@@ -31,10 +31,10 @@
             • "Actual Return Time"
             • "Effective Return Time"
             • "Return Time"
-            • State 
+            • State
             • Patron
         • export results as a CSV
-    • Exporting graphs/readable report: 
+    • Exporting graphs/readable report:
         • Equipment Bar Charts -- coming soon.
         • Day Line Charts (Checkouts/Returns per hour) -- coming soon.
-        • Major distribution chart -- coming soon.         
+        • Major distribution chart -- coming soon.
