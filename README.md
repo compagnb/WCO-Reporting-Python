@@ -10,13 +10,16 @@
 ### Optional Metrics Included:
     • Status of reservation (reservations never picked up)
     • Late return (by hour amount)
-    • Frequent students
+    • Frequent students (by hour amount)
     
 ### How To Use: 
     • In Web Check Out:
         • Select Usage Report from under the Reports tab in WCO
+        ![Selecting Usage Report from pull-down menu](/images/report.png)
         • Choose your Check-out Center
-        • Select all states ( Checkout, completed.... etc)
+        ![Check-out Center](/images/ckoutcenter.png)
+        • Select all states applicable (Checkout, completed.... etc)
+        ![States](/images/state.png)
         • Select start date and time
         • select end date and time
         • ensure the following result collumns are included in your output:
