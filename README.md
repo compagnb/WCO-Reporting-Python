@@ -15,11 +15,11 @@
 ### How To Use:
     • In Web Check Out:
         • Select Usage Report from under the Reports tab in WCO
-        [Selecting Usage Report from pull-down menu](/images/report.png)
+        ![Selecting Usage Report from pull-down menu](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/report.png)
         • Choose your Check-out Center
-        [Check-out Center](/images/ckoutcenter.png)
+        ![Check-out Center](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/ckoutcenter.png)
         • Select all states applicable (Checkout, completed.... etc)
-        [States](/images/state.png)
+        ![States](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/state.png)
         • Select start date and time
         • select end date and time
         • ensure the following result collumns are included in your output:
