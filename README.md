@@ -23,9 +23,10 @@
         • Select all states applicable (Checkout, completed.... etc)
 ![States](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/state.png)
 
-        • Select start date and time
-        • select end date and time
-        • ensure the following result collumns are included in your output:
+        • Select start and end date and time (For most accurate results choose actual start and end times, this will account for early and late pick ups and returns)
+![time](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/time.png)
+
+        • ensure the following result columns are included in your output:
             • "Patron Department"
             • "Effective Patron Class"
             • "Item Names"
@@ -36,7 +37,12 @@
             • "Return Time"
             • State
             • Patron
+![columns](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/columns.png)
+
         • export results as a CSV
+![export](https://github.com/compagnb/WCO-Reporting-Python/blob/master/images/export.png)
+
+
     • Exporting graphs/readable report:
         • Equipment Bar Charts -- coming soon.
         • Day Line Charts (Checkouts/Returns per hour) -- coming soon.
